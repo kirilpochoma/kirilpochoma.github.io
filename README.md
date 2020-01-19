@@ -1,1 +1,0 @@
-# kirilpochoma.github.io
