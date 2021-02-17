@@ -142,39 +142,137 @@ padding-left: 10px;
 border: 2px solid gold;
 color: white;
 }
+
+.block1{
+	position: absolute;
+	top:635px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://storage.googleapis.com/excalibur-cz/2017/12/World_of_Tanks_Tanks_467928_1920x1080.jpg);
+	background-position: 50% 50%;
+}
+body{
+	padding:30px;
+}
+.video2{
+	position:absolute;
+	top:1320px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}
+.video1{
+	position:absolute;
+	top:650px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}
+ .block2{
+	position: absolute;
+	top:1300px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://img2.goodfon.ru/wallpaper/nbig/2/7f/world-of-tanks-maus-wot-tank-1911.jpg);
+	background-position: 50% 50%;
+}
+.video3{
+	position:absolute;
+	top:2020px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}
+ .block3{
+	position: absolute;
+	top:2000px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://i.ytimg.com/vi/0AKvV0jq4CU/maxresdefault.jpg);
+	background-position: 60% 40%;
+}
+ .block4{
+	position: absolute;
+	top:2670px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://i.ytimg.com/vi/BmHZvlf4vWQ/maxresdefault.jpg);
+	background-position: 60% 40%;
+}
+.video4{
+	position:absolute;
+	top:2690px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}
+.block5{
+	position: absolute;
+	top:3380px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://img4.goodfon.ru/wallpaper/nbig/4/24/patton-ii-m47-modernizirovannyi-variant-tanka-m46-ssha-sredn.jpg);
+	position: absolute;
+	background-position: 60% 40%;
+	}
+.video5{
+	position:absolute;
+	top:3400px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}	
+.block6{
+	position: absolute;
+	top:4120px;
+	left: -100px;
+	height: 350px;
+	width: 1150px;
+	margin-left:800px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #000;
+	background-image: url(https://media-wbp.wgcdn.co/media/filer_public/3d/b7/3db704a1-b8ed-4faf-9cde-11ef401a84ce/t-55a_1920x1080.jpg);
+	position: absolute;
+	background-position: 60% 40%;
+}
 .tabla_2{
 background-color:#1b0031;
 color:white;
 width:50px;
 height:250px;
 position: absolute;
-top:535px;
-left:1855px;
+top:-1020px;
+left:3000px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
+.video6{
+	position:absolute;
+	top:4140px;
+	left: 50px;
+	box-shadow: 0 0 20px #FFF;
+}	
+a{
+	text-decoration: none;
+	color: #000;
+}
+table{
+	opacity: 0.8;
+	padding: 1px;
+}
+.trans{
+	opacity:1;
+}
